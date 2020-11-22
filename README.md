@@ -7,8 +7,13 @@ GIF
 Talking about Personal Stuffs:
 
 👨🏽‍💻 I’m currently working on Mutiple Scraping Projects;
+
 🌱 I’m currently learning ML and Data Science;
+
 💬 Ask me about anything, I Will be very happy to help you out;
+
 ⚡️ Fun-Fact: I have scrap more than 100+ website includng Amazon, housing.com, Zillow.com, US county sites and etc...
+
 📫 How to reach me: sutharprashant199722@gmail.com;
+
 Prashant's github stats
