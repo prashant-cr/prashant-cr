@@ -1,6 +1,6 @@
 Hey 👋🏽, I'm Prashant!
 
-Hi, I'm Prashant Suthar, a Web Scraper with python 🚀 from India. Beside's programming, I enjoy watching Cricket and playing cricket.
+Hi, I'm Software Engineer by profession and I have expertice in a Web Scraping and web scrawling with python 🚀 from India. I have wide experience in AWS Serverless Stack. Beside's programming, I enjoy watching Cricket and playing cricket.
 
 Talking about Personal Stuffs:
 
@@ -10,7 +10,7 @@ Talking about Personal Stuffs:
 
 💬 Ask me about anything, I Will be very happy to help you out;
 
-⚡️ Fun-Fact: I have scrap more than 100+ website includng Amazon, housing.com, Zillow.com, US county sites and etc...
+⚡️ Fun-Fact: I have scrap more than 100+ website includng Amazon, housing.com, Zillow.com, Booking.com and many US county sites and etc...
 
 📫 How to reach me: sutharprashant199722@gmail.com;
 
