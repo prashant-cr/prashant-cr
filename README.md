@@ -10,7 +10,7 @@ Talking about Personal Stuffs:
 
 💬 Ask me about anything, I Will be very happy to help you out;
 
-⚡️ Fun-Fact: I have scrap more than 100+ website includng Amazon, housing.com, Zillow.com, Booking.com and many US county sites and etc...
+⚡️ Fun-Fact: I have scrap more than 100+ website including Amazon, housing.com, Zillow.com, Booking.com and many US county sites and etc...
 
 📫 How to reach me: sutharprashant199722@gmail.com;
 
