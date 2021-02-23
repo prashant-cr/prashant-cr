@@ -1,16 +1,16 @@
 Hey 👋🏽, I'm Prashant!
 
-Hi, I'm Software Engineer by profession and I have expertice in a Web Scraping and web scrawling with python 🚀 from India. I have wide experience in AWS Serverless Stack. Beside's programming, I enjoy watching Cricket and playing cricket.
+Hi, I'm Software Engineer by profession and I have expertice in a Web Development, Web Scraping and web scrawling with python 🚀 from India. I have wide experience in AWS Serverless Stack. Beside's programming, I enjoy watching Cricket and playing cricket.
 
 Talking about Personal Stuffs:
 
-👨🏽‍💻 I’m currently working on Mutiple Scraping Projects;
+👨🏽‍💻 I’m currently working on Mutiple Projects;
 
 🌱 I’m currently learning ML and Data Science;
 
 💬 Ask me about anything, I Will be very happy to help you out;
 
-⚡️ Fun-Fact: I have scrap more than 100+ website including Amazon, housing.com, Zillow.com, Booking.com and many US county sites and etc...
+⚡️ Fun-Fact: I have worked on many Development Project using Python. I have scraped more than 100+ website including Amazon, housing.com, Zillow.com, Booking.com and many US county sites and etc...
 
 📫 How to reach me: sutharprashant199722@gmail.com;
 
